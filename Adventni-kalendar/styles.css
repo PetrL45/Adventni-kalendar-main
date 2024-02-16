@@ -6,8 +6,9 @@ h1{
     text-align: center;
 }
 a{
-    color:white;
-}
-a {
+    color:white; 
     margin-right: 30px;
+}
+a :hover {
+   color: cyan;
 }

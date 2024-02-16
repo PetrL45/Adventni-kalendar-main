@@ -9,6 +9,6 @@ img{
     display: block; 
     margin: 0 auto;
 }
-nav li ul :hover{
-    color: yellow
+a:hover{
+    color: cyan
 }
